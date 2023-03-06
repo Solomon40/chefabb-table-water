@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/chefabb-table-water/static/css/main.168ae65c.css",
+    "main.js": "/chefabb-table-water/static/js/main.9aa1ddfe.js",
+    "static/js/787.2f990837.chunk.js": "/chefabb-table-water/static/js/787.2f990837.chunk.js",
+    "static/media/water_pride-transformed.jpeg": "/chefabb-table-water/static/media/water_pride-transformed.4b6bb92593681969872f.jpeg",
+    "static/media/water-splash-bottle-transformed.jpeg": "/chefabb-table-water/static/media/water-splash-bottle-transformed.9a0bdcab1628cc898da4.jpeg",
+    "static/media/glass-transformed.jpeg": "/chefabb-table-water/static/media/glass-transformed.a4f9fb37759058e75339.jpeg",
+    "static/media/water-filtration.jpg": "/chefabb-table-water/static/media/water-filtration.584b7d5adc24c3d1e04a.jpg",
+    "static/media/logo.svg": "/chefabb-table-water/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/chefabb-table-water/index.html",
+    "main.168ae65c.css.map": "/chefabb-table-water/static/css/main.168ae65c.css.map",
+    "main.9aa1ddfe.js.map": "/chefabb-table-water/static/js/main.9aa1ddfe.js.map",
+    "787.2f990837.chunk.js.map": "/chefabb-table-water/static/js/787.2f990837.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.168ae65c.css",
+    "static/js/main.9aa1ddfe.js"
+  ]
+}
